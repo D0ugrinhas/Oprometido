@@ -48,6 +48,9 @@
 	<script>
 	// Issue a warning if trying to preview an exported project on disk.
 	(function(){
+		//Tenta abrir em tela cheia
+		document.documentElement.requestFullscreen();
+
 		// Check for running exported on file protocol
 		if (window.location.protocol.substr(0, 4) === "file")
 		{
