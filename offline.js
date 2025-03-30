@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743365266,
+	"version": 1743366167,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,9 +18,7 @@
 		"images/botão-sheet1.png",
 		"images/overlay-sheet0.png",
 		"images/vinheta-sheet0.png",
-		"images/queijo-sheet0.png",
-		"images/queijo-sheet1.png",
-		"images/queijo-sheet2.png",
+		"images/coletavel-sheet0.png",
 		"images/mind_debug-sheet0.png",
 		"images/botão_movimento-sheet0.png",
 		"images/botão_movimento-sheet1.png",
