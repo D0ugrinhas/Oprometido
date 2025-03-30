@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1743364074,
+	"version": 1743365266,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/vinheta-sheet0.png",
 		"images/queijo-sheet0.png",
 		"images/queijo-sheet1.png",
+		"images/queijo-sheet2.png",
 		"images/mind_debug-sheet0.png",
 		"images/botão_movimento-sheet0.png",
 		"images/botão_movimento-sheet1.png",
@@ -27,6 +28,8 @@
 		"media/walk.ogg",
 		"media/grasswalk.m4a",
 		"media/grasswalk.ogg",
+		"media/pickupcoin.m4a",
+		"media/pickupcoin.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
